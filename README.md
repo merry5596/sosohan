@@ -22,7 +22,7 @@
 ## 사용 기술
 - **Spring framework**: RESTful API 서버 구현
     - Spring Data JPA: 객체와 DB를 간편하게 매핑
-- **React**, **React-Native**: 컴포넌트 재사용, 가상DOM
+- **React**, **React-Native**: 컴포넌트 재사용으로 빠른 개발
     - React Bootstrap, Native Base 등 UI 라이브러리 적극 활용
 - **MyBatis**
 - **MySQL**
