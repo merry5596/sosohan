@@ -13,18 +13,16 @@
 - 할인 쿠폰 등록
 
 ## 구조
-### Server
-- 
+- **shh_server**: RESTful API 서버
 
-### Web
-- 
+- **shh_web**: 소상공인 연계 플랫폼
 
-### App
-- 
+- **shh_app**: 소비자 쿠폰 앱
 
 ## 사용 기술
-- Spring framework: RESTful API 서버 구현
+- **Spring framework**: RESTful API 서버 구현
     - Spring Data JPA: 객체와 DB를 간편하게 매핑
-- React, React-Native: 컴포넌트 재사용, 가상DOM
+- **React**, **React-Native**: 컴포넌트 재사용, 가상DOM
     - React Bootstrap, Native Base 등 UI 라이브러리 적극 활용
-- MySQL
+- **MyBatis**
+- **MySQL**
